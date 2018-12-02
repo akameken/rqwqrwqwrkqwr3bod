@@ -22,7 +22,6 @@ token=NTE4ODE2ODQxMzQzMTcyNjIw.DuWRgg.ucIpqALAtVmQcqIl1dpKqIkbtLA
 
 owner=487261785171296257
 
-
 // This sets the prefix for the bot
 // The prefix is used to control the commands
 // If you use !!, the play command will be !!play
